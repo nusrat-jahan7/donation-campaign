@@ -1,0 +1,99 @@
+[
+    {
+      "id": 1,
+      "categoryName": "Health",
+      "title": "Support Medical Research",
+      "description": "Help fund critical medical research projects to save lives and improve healthcare.",
+      "donationPrice": 50,
+      "image": "src/assets/images/Health.png"
+    },
+    {
+      "id": 2,
+      "categoryName": "Education",
+      "title": "Scholarships for Underprivileged Students",
+      "description": "Provide educational opportunities to disadvantaged students to empower their future.",
+      "donationPrice": 30,
+      "image": "src/assets/images/Education.png"
+    },
+    {
+      "id": 3,
+      "categoryName": "Clothing",
+      "title": "Warm Clothes for Winter",
+      "description": "Donate winter clothing to keep those in need warm during the cold season.",
+      "donationPrice": 20,
+      "image": "src/assets/images/Clothing.png"
+    },
+    {
+      "id": 4,
+      "categoryName": "Food",
+      "title": "Feed the Hungry",
+      "description": "Contribute to food drives and initiatives to fight hunger in your community.",
+      "donationPrice": 10,
+      "image": "src/assets/images/Food.png"
+    },
+    {
+      "id": 5,
+      "categoryName": "Education",
+      "title": "Books for School Libraries",
+      "description": "Help schools build their libraries with quality books for students' education.",
+      "donationPrice": 25,
+      "image": "https://i.ibb.co/4VVSbHb/book.jpg"
+    },
+    {
+      "id": 6,
+      "categoryName": "Health",
+      "title": "Emergency Medical Supplies",
+      "description": "Provide vital medical supplies to disaster-stricken areas for immediate relief.",
+      "donationPrice": 40,
+      "image": "https://i.ibb.co/7WZs053/medicine.jpg"
+    },
+    {
+      "id": 7,
+      "categoryName": "Food",
+      "title": "Meals for Children",
+      "description": "Support programs that ensure children have nutritious meals for their development.",
+      "donationPrice": 15,
+      "image": "https://i.ibb.co/tBSNxQ4/food-for-needy.jpg"
+    },
+    {
+      "id": 8,
+      "categoryName": "Clothing",
+      "title": "Winter Coats for Homeless",
+      "description": "Provide warm winter coats to homeless individuals during harsh winters.",
+      "donationPrice": 30,
+      "image": "https://i.ibb.co/gMNjWFj/1530061386632.jpg"
+    },
+    {
+      "id": 9,
+      "categoryName": "Education",
+      "title": "Laptops for Remote Learning",
+      "description": "Equip students with laptops for remote learning and better educational opportunities.",
+      "donationPrice": 50,
+      "image": "https://i.ibb.co/kMnYjYK/laptop.jpg"
+    },
+    {
+      "id": 10,
+      "categoryName": "Health",
+      "title": "Vaccination Campaigns",
+      "description": "Support vaccination campaigns to protect communities from preventable diseases.",
+      "donationPrice": 35,
+      "image": "https://i.ibb.co/0yJ9PrJ/vaccination.jpg"
+    },
+    {
+      "id": 11,
+      "categoryName": "Food",
+      "title": "Community Food Banks",
+      "description": "Donate to local food banks to ensure families have access to nutritious meals.",
+      "donationPrice": 20,
+      "image": "https://i.ibb.co/N7m8kzd/food-for-all.jpg"
+    },
+    {
+      "id": 12,
+      "categoryName": "Clothing",
+      "title": "School Uniforms for Children",
+      "description": "Provide school uniforms to children to remove barriers to education.",
+      "donationPrice": 15,
+      "image": "https://i.ibb.co/MZY2xQq/uniform.jpg"
+    }
+  ]
+  
