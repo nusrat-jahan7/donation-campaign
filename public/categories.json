@@ -37,7 +37,7 @@
       "title": "Books for School Libraries",
       "description": "Help schools build their libraries with quality books for students' education.",
       "donationPrice": 25,
-      "image": "https://i.ibb.co/4VVSbHb/book.jpg"
+      "image": "src/assets/images/Education.png"
     },
     {
       "id": 6,
@@ -45,7 +45,7 @@
       "title": "Emergency Medical Supplies",
       "description": "Provide vital medical supplies to disaster-stricken areas for immediate relief.",
       "donationPrice": 40,
-      "image": "https://i.ibb.co/7WZs053/medicine.jpg"
+      "image": "src/assets/images/Health.png"
     },
     {
       "id": 7,
@@ -53,7 +53,7 @@
       "title": "Meals for Children",
       "description": "Support programs that ensure children have nutritious meals for their development.",
       "donationPrice": 15,
-      "image": "https://i.ibb.co/tBSNxQ4/food-for-needy.jpg"
+      "image": "src/assets/images/Food.png"
     },
     {
       "id": 8,
@@ -61,7 +61,7 @@
       "title": "Winter Coats for Homeless",
       "description": "Provide warm winter coats to homeless individuals during harsh winters.",
       "donationPrice": 30,
-      "image": "https://i.ibb.co/gMNjWFj/1530061386632.jpg"
+      "image": "src/assets/images/Clothing.png"
     },
     {
       "id": 9,
@@ -69,7 +69,7 @@
       "title": "Laptops for Remote Learning",
       "description": "Equip students with laptops for remote learning and better educational opportunities.",
       "donationPrice": 50,
-      "image": "https://i.ibb.co/kMnYjYK/laptop.jpg"
+      "image": "src/assets/images/Education.png"
     },
     {
       "id": 10,
@@ -77,7 +77,7 @@
       "title": "Vaccination Campaigns",
       "description": "Support vaccination campaigns to protect communities from preventable diseases.",
       "donationPrice": 35,
-      "image": "https://i.ibb.co/0yJ9PrJ/vaccination.jpg"
+      "image": "src/assets/images/Health.png"
     },
     {
       "id": 11,
@@ -85,7 +85,7 @@
       "title": "Community Food Banks",
       "description": "Donate to local food banks to ensure families have access to nutritious meals.",
       "donationPrice": 20,
-      "image": "https://i.ibb.co/N7m8kzd/food-for-all.jpg"
+      "image": "src/assets/images/Food.png"
     },
     {
       "id": 12,
@@ -93,7 +93,7 @@
       "title": "School Uniforms for Children",
       "description": "Provide school uniforms to children to remove barriers to education.",
       "donationPrice": 15,
-      "image": "https://i.ibb.co/MZY2xQq/uniform.jpg"
+      "image": "src/assets/images/Clothing.png"
     }
   ]
   
