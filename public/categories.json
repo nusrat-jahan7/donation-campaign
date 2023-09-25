@@ -3,97 +3,117 @@
       "id": 1,
       "categoryName": "Health",
       "title": "Support Medical Research",
-      "description": "Help fund critical medical research projects to save lives and improve healthcare.",
+      "description": "Help fund critical medical research projects to save lives and improve healthcare.Support vital medical research projects with your generous donation. Your contribution funds critical research aimed at saving lives, advancing healthcare, and enhancing medical knowledge. Together, we can make breakthroughs in medical science, improving the well-being of individuals and communities worldwide.",
       "donationPrice": 50,
-      "image": "src/assets/images/Health.png"
+      "image": "https://i.ibb.co/v1MZ51y/Health.png",
+      "rectangleImage": "https://i.ibb.co/dtxvx7P/Rectangle-4284.png"
     },
     {
       "id": 2,
       "categoryName": "Education",
       "title": "Scholarships for Underprivileged Students",
-      "description": "Provide educational opportunities to disadvantaged students to empower their future.",
+      "description": "Provide educational opportunities to disadvantaged students to empower their future.Empower underprivileged students by providing scholarships. Your donation offers educational opportunities to those who need it most, helping them unlock their potential and achieve their dreams. Education is a powerful tool for positive change, and your support can make a lasting impact.",
       "donationPrice": 30,
-      "image": "src/assets/images/Education.png"
+      "image": "https://i.ibb.co/Btk2fNr/Education.png",
+      "rectangleImage": "https://i.ibb.co/KyC5gJ5/Rectangle-4287-1.png"
     },
     {
       "id": 3,
       "categoryName": "Clothing",
       "title": "Warm Clothes for Winter",
-      "description": "Donate winter clothing to keep those in need warm during the cold season.",
+      "description": "Donate winter clothing to keep those in need warm during the cold season.Help keep those in need warm during harsh winters. Your donation of winter clothing ensures that vulnerable individuals stay comfortable and protected from the cold. By sharing warmth, you're making a difference in the lives of those facing adversity.",
       "donationPrice": 20,
-      "image": "src/assets/images/Clothing.png"
+      "image": "https://i.ibb.co/MPTG71n/Clothing.png",
+      "rectangleImage": "https://i.ibb.co/8NzyG9N/Rectangle-4287.png"
     },
     {
       "id": 4,
       "categoryName": "Food",
       "title": "Feed the Hungry",
-      "description": "Contribute to food drives and initiatives to fight hunger in your community.",
+      "description": "Contribute to food drives and initiatives to fight hunger in your community.Join the fight against hunger by contributing to food drives and initiatives. Your donation ensures that no one in our community goes to bed hungry. Together, we can provide nutritious meals to families in need, fostering stronger and healthier communities.",
       "donationPrice": 10,
-      "image": "src/assets/images/Food.png"
+      "image": "https://i.ibb.co/CMcX4Tn/Food.png",
+      "rectangleImage": "https://i.ibb.co/Z1TdyQW/Rectangle-4287-2.png"
     },
     {
       "id": 5,
       "categoryName": "Education",
       "title": "Books for School Libraries",
-      "description": "Help schools build their libraries with quality books for students' education.",
+      "description": "Help schools build their libraries with quality books for students' education.Empower underprivileged students by providing scholarships. Your donation offers educational opportunities to those who need it most, helping them unlock their potential and achieve their dreams. Education is a powerful tool for positive change, and your support can make a lasting impact.",
       "donationPrice": 25,
-      "image": "src/assets/images/Education.png"
+      "image": "https://i.ibb.co/Btk2fNr/Education.png",
+      "rectangleImage": "https://i.ibb.co/KyC5gJ5/Rectangle-4287-1.png"
     },
     {
       "id": 6,
       "categoryName": "Health",
       "title": "Emergency Medical Supplies",
-      "description": "Provide vital medical supplies to disaster-stricken areas for immediate relief.",
+      "description": "Provide vital medical supplies to disaster-stricken areas for immediate relief.Support vital medical research projects with your generous donation. Your contribution funds critical research aimed at saving lives, advancing healthcare, and enhancing medical knowledge. Together, we can make breakthroughs in medical science, improving the well-being of individuals and communities worldwide.",
       "donationPrice": 40,
-      "image": "src/assets/images/Health.png"
+      "image": "https://i.ibb.co/v1MZ51y/Health.png",
+      "rectangleImage": "https://i.ibb.co/dtxvx7P/Rectangle-4284.png"
     },
     {
       "id": 7,
       "categoryName": "Food",
       "title": "Meals for Children",
-      "description": "Support programs that ensure children have nutritious meals for their development.",
+      "description": "Support programs that ensure children have nutritious meals for their development.Join the fight against hunger by contributing to food drives and initiatives. Your donation ensures that no one in our community goes to bed hungry. Together, we can provide nutritious meals to families in need, fostering stronger and healthier communities.",
       "donationPrice": 15,
-      "image": "src/assets/images/Food.png"
+      "image": "https://i.ibb.co/CMcX4Tn/Food.png",
+      "rectangleImage": "https://i.ibb.co/Z1TdyQW/Rectangle-4287-2.png"
     },
     {
       "id": 8,
       "categoryName": "Clothing",
       "title": "Winter Coats for Homeless",
-      "description": "Provide warm winter coats to homeless individuals during harsh winters.",
+      "description": "Provide warm winter coats to homeless individuals during harsh winters.Help keep those in need warm during harsh winters. Your donation of winter clothing ensures that vulnerable individuals stay comfortable and protected from the cold. By sharing warmth, you're making a difference in the lives of those facing adversity.",
       "donationPrice": 30,
-      "image": "src/assets/images/Clothing.png"
+      "image": "  https://i.ibb.co/MPTG71n/Clothing.png",
+      "rectangleImage": "https://i.ibb.co/8NzyG9N/Rectangle-4287.png"
     },
     {
       "id": 9,
       "categoryName": "Education",
       "title": "Laptops for Remote Learning",
-      "description": "Equip students with laptops for remote learning and better educational opportunities.",
+      "description": "Equip students with laptops for remote learning and better educational opportunities.Empower underprivileged students by providing scholarships. Your donation offers educational opportunities to those who need it most, helping them unlock their potential and achieve their dreams. Education is a powerful tool for positive change, and your support can make a lasting impact.",
       "donationPrice": 50,
-      "image": "src/assets/images/Education.png"
+      "image": "https://i.ibb.co/Btk2fNr/Education.png",
+      "rectangleImage": "https://i.ibb.co/KyC5gJ5/Rectangle-4287-1.png"
     },
     {
       "id": 10,
       "categoryName": "Health",
       "title": "Vaccination Campaigns",
-      "description": "Support vaccination campaigns to protect communities from preventable diseases.",
+      "description": "Support vaccination campaigns to protect communities from preventable diseases.Support vital medical research projects with your generous donation. Your contribution funds critical research aimed at saving lives, advancing healthcare, and enhancing medical knowledge. Together, we can make breakthroughs in medical science, improving the well-being of individuals and communities worldwide.",
       "donationPrice": 35,
-      "image": "src/assets/images/Health.png"
+      "image": "https://i.ibb.co/v1MZ51y/Health.png",
+      "rectangleImage": "https://i.ibb.co/dtxvx7P/Rectangle-4284.png"
     },
     {
       "id": 11,
       "categoryName": "Food",
       "title": "Community Food Banks",
-      "description": "Donate to local food banks to ensure families have access to nutritious meals.",
+      "description": "Donate to local food banks to ensure families have access to nutritious meals.Join the fight against hunger by contributing to food drives and initiatives. Your donation ensures that no one in our community goes to bed hungry. Together, we can provide nutritious meals to families in need, fostering stronger and healthier communities.",
       "donationPrice": 20,
-      "image": "src/assets/images/Food.png"
+      "image": "https://i.ibb.co/CMcX4Tn/Food.png",
+      "rectangleImage": "https://i.ibb.co/Z1TdyQW/Rectangle-4287-2.png"
     },
     {
       "id": 12,
       "categoryName": "Clothing",
       "title": "School Uniforms for Children",
-      "description": "Provide school uniforms to children to remove barriers to education.",
+      "description": "Provide school uniforms to children to remove barriers to education.Help keep those in need warm during harsh winters. Your donation of winter clothing ensures that vulnerable individuals stay comfortable and protected from the cold. By sharing warmth, you're making a difference in the lives of those facing adversity.",
       "donationPrice": 15,
-      "image": "src/assets/images/Clothing.png"
+      "image": "  https://i.ibb.co/MPTG71n/Clothing.png",
+      "rectangleImage": "https://i.ibb.co/8NzyG9N/Rectangle-4287.png"
     }
   ]
   
+
+
+
+
+
+
+  
+
