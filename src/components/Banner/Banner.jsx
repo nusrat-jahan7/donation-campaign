@@ -1,20 +1,29 @@
-const Banner = () => {
+const Banner = ({ setSearchKey }) => {
   return (
-    <div className="my-20 ">
-      <h1 className="text-5xl text-gray-700 text-center font-bold">
-        I Grow By Helping People In Need
-      </h1>
-      <div className="flex justify-center my-10">
-        <input
-          type="text"
-          placeholder="Search here...."
-          className="input input-bordered w-full max-w-xs"
-        />
-        <button className="px-4 hover:bg-red-600 focus:outline-none focus:ring-red-300 bg-red-500 text-white font-semibold -ml-5 rounded-r-lg">
-          Search
-        </button>
+    <section
+      className="hero h-[600px] relative"
+      style={{
+        backgroundImage: "url(https://i.ibb.co/wNTRQNn/volunteers-charity.jpg)",
+      }}
+    >
+      <div className="overlays"></div>
+      <div className="hero-content text-center text-neutral-content">
+        <div className="">
+          <h1 className="mb-5 text-5xl font-bold text-black">
+            I Grow By Helping People In Need
+          </h1>
+
+          <div className="join rounded-lg pt-10">
+            <input
+              onChange={(e) => setSearchKey(e.target.value)}
+              id="search-field"
+              className="input input-bordered join-item text-black w-60"
+              placeholder="Search by category name..."
+            />
+          </div>
+        </div>
       </div>
-    </div>
+    </section>
   );
 };
 

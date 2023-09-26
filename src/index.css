@@ -1,3 +1,21 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.overlays {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.93);
+}
+
+.black-overlay {
+  color: rgba(11, 11, 11, 0.5);
+}
+
+.darker-overlay {
+  position: absolute;
+  bottom: 0;
+  height: 20%;
+  background: rgba(11, 11, 11, 0.5);
+}

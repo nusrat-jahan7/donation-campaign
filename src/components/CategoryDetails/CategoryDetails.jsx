@@ -8,7 +8,6 @@ const CategoryDetails = () => {
     (category) => category.id === +categoryId
   );
 
-
   const setToLocalStorage = () => {
     const categories = JSON.parse(localStorage.getItem("categories")) || [];
     const categoryExist = !!categories.find(
@@ -23,8 +22,6 @@ const CategoryDetails = () => {
       toast.success("Successfully Donated!");
     }
   };
-
-  
 
   const { rectangleImage, title, description, donationPrice } = currentCategory;
 

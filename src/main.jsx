@@ -8,11 +8,13 @@ import Statistics from "./components/Statistics/Statistics";
 import "./index.css";
 import CategoryDetails from "./components/CategoryDetails/CategoryDetails";
 import { Toaster } from "react-hot-toast";
+import ErrorPage from "./components/ErrorPage/ErrorPage";
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <Route />,
+    errorElement: <ErrorPage/>,
     children: [
       {
         path: "/",
@@ -26,6 +28,7 @@ const router = createBrowserRouter([
       {
         path: "/statistics",
         element: <Statistics />,
+        loader: () => fetch("/categories.json"),
       },
       {
         path: "/category-details/:id",
